@@ -5,6 +5,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
+- [Figma Design] https://www.figma.com/file/DXtbm4lhcUJeQJL0gGS9sK/GYMDER?type=design&node-id=0-1&mode=design&t=nJcl1o9FKtsHt7Bd-0
 
 ## Introduction
 
