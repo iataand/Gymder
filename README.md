@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Welcome to the Gyymder! This project is an application developed as part of the frontend curriculum at University of Bucharest. The goal of this project is to showcase the advanced frontend development skills acquired during the third year of study.
+Welcome to the Gymder! This project is an application developed as part of the frontend curriculum at University of Bucharest. The goal of this project is to showcase the advanced frontend development skills acquired during the third year of study.
 
 Gymder is a mathching system website destined to people that are looking for gym partners.
 
