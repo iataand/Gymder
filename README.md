@@ -36,6 +36,6 @@ Gymder is a mathching system website destined to people that are looking for gym
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/obi4/frontend-avansat-anul-3.git`
+1. Clone the repository: `git clone https://github.com/iataand/frontend-avansat-anul-3.git`
 2. Navigate to the project directory: `cd frontend-avansat-anul-3`
 3. Install dependencies: `npm install`
